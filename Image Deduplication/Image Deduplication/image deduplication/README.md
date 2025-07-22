@@ -103,6 +103,3 @@ Optionally cross-check with Hamming distance using hash comparison for redundanc
 This approach ensures high accuracy, even when images are resized, slightly modified, or compressed differently.
 
 ---
-Author
-Panjala Nikitha
-B.Tech IT – Anurag University
